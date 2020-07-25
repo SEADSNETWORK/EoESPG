@@ -1,6 +1,6 @@
 # EoESPG
 
-![Logo](https://cdn.sanity.io/images/t39t9igo/production/9b0b5f4ecad44383f86b6e2da131528b9308663f-972x972.jpg?w=2275 "EoE logo")
+![Logo](https://cdn.sanity.io/images/t39t9igo/production/9b0b5f4ecad44383f86b6e2da131528b9308663f-972x972.jpg?w=400 "EoE logo")
 
 
 - [Project overview](https://seads.network/project/engines-of-eternity)
