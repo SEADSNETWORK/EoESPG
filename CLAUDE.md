@@ -9,9 +9,9 @@
 
 - **Call number:** ART·EOE (shelf `art`, slug `engines-of-eternity`, task prefix `[eoe]`)
 - **Purpose:** _(add a one-line purpose under Overview in _project.md)_
-- **State:** development
+- **State:** archived
 - **Deadline:** none set
-- **Vault folder:** `Projects/art/engines-of-eternity`
+- **Vault folder:** `Projects/archive/art/engines-of-eternity`
 - **Website:** https://pietersteyaert.net/project/eoe (suggested)
 
 ### Resources
@@ -20,7 +20,7 @@
 - GitHub (supportive): https://github.com/SEADSNETWORK/EoE_experimental
 - GitHub (supportive): https://github.com/SEADSNETWORK/EoESPG
 - Tasks: no list linked
-- NAS project: `/volume1/Library/projects/art/engines-of-eternity`
+- NAS project: `/volume1/Library/projects/archive/art/engines-of-eternity`
 - NAS images: `/volume1/Library/images/project images/Engines of Eternity images`
 - NAS video: `/volume1/Library/video/project video/Engines of Eternity video`
 - Drive (main): engines-of-eternity https://drive.google.com/drive/folders/18K4hd_aNCpzZV_QIbbhxE2LkckPYrGA4
@@ -46,9 +46,9 @@
 
 - **Call number:** ART·EOE (shelf `art`, slug `engines-of-eternity`, task prefix `[eoe]`)
 - **Purpose:** _(add a one-line purpose under Overview in _project.md)_
-- **State:** development
+- **State:** archived
 - **Deadline:** none set
-- **Vault folder:** `Projects/art/engines-of-eternity`
+- **Vault folder:** `Projects/archive/art/engines-of-eternity`
 - **Website:** https://pietersteyaert.net/project/eoe (suggested)
 
 ##### Resources
@@ -57,7 +57,7 @@
 - GitHub (supportive): https://github.com/SEADSNETWORK/EoE_experimental
 - GitHub (supportive): https://github.com/SEADSNETWORK/EoESPG
 - Tasks: no list linked
-- NAS project: `/volume1/Library/projects/art/engines-of-eternity`
+- NAS project: `/volume1/Library/projects/archive/art/engines-of-eternity`
 - NAS images: `/volume1/Library/images/project images/Engines of Eternity images`
 - NAS video: `/volume1/Library/video/project video/Engines of Eternity video`
 - Drive (main): engines-of-eternity https://drive.google.com/drive/folders/18K4hd_aNCpzZV_QIbbhxE2LkckPYrGA4
