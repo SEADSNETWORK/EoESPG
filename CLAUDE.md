@@ -23,7 +23,6 @@
 - NAS project: `/volume1/Library/projects/archive/art/engines-of-eternity`
 - NAS images: `/volume1/Library/images/project images/Engines of Eternity images`
 - NAS video: `/volume1/Library/video/project video/Engines of Eternity video`
-- Drive (main): engines-of-eternity https://drive.google.com/drive/folders/18K4hd_aNCpzZV_QIbbhxE2LkckPYrGA4
 - Drive (shared, owned by jeroen@seads.network): 1UR1VDBlT377-ELEvy3QAjs9iMHAEXRyd https://drive.google.com/drive/folders/1UR1VDBlT377-ELEvy3QAjs9iMHAEXRyd
 - Chat (beeper): Ēngines of Ēternity
 - Chat (beeper): De kist van EoE
@@ -60,7 +59,6 @@
 - NAS project: `/volume1/Library/projects/archive/art/engines-of-eternity`
 - NAS images: `/volume1/Library/images/project images/Engines of Eternity images`
 - NAS video: `/volume1/Library/video/project video/Engines of Eternity video`
-- Drive (main): engines-of-eternity https://drive.google.com/drive/folders/18K4hd_aNCpzZV_QIbbhxE2LkckPYrGA4
 - Drive (shared, owned by jeroen@seads.network): 1UR1VDBlT377-ELEvy3QAjs9iMHAEXRyd https://drive.google.com/drive/folders/1UR1VDBlT377-ELEvy3QAjs9iMHAEXRyd
 - Chat (beeper): Ēngines of Ēternity
 - Chat (beeper): De kist van EoE
